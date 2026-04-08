@@ -8,7 +8,6 @@ dist
 .vercel
 .catalyst
 .env
-.env.local
 .env*.local
 .env*.test
 test-results/
